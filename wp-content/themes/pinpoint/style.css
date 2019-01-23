@@ -880,8 +880,8 @@ article.type-post, .top-spacing aside.sidebar, .top-spacing .page-content, aside
 	padding-top: 0;
 }
 .full-width {
-	margin: 0 -30px!important;
-	width: 1000px!important;
+	margin: 0 -20px!important;
+/*	width: 1000px!important;*/
 }
 .fullwidth-layout .full-width {
 	margin-left: 0!important;
